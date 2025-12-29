@@ -1,7 +1,27 @@
 {
-  "name": "dropdown-menu",
+  "name": "@top-submissions/dropdown-menu",
   "version": "1.0.0",
   "description": "A lightweight, reusable dropdown menu component built with vanilla JavaScript",
+  "keywords": [
+    "dropdown",
+    "menu",
+    "dropdown-menu",
+    "javascript",
+    "vanilla-js",
+    "ui-component",
+    "the-odin-project"
+  ],
+  "homepage": "https://github.com/top-submissions/fullstackjs-npmpackage-dropdown-menu#readme",
+  "bugs": {
+    "url": "https://github.com/top-submissions/fullstackjs-npmpackage-dropdown-menu/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/top-submissions/fullstackjs-npmpackage-dropdown-menu.git"
+  },
+  "license": "MIT",
+  "author": "top-submissions",
+  "type": "module",
   "main": "DropdownMenu.js",
   "files": [
     "src/",
@@ -14,25 +34,6 @@
     "format": "prettier --write \"*.{js,css,md}\"",
     "format:check": "prettier --check \"*.{js,css,md}\""
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/top-submissions/fullstackjs-npmpackage-dropdown-menu.git"
-  },
-  "keywords": [
-    "dropdown",
-    "menu",
-    "dropdown-menu",
-    "javascript",
-    "vanilla-js",
-    "ui-component",
-    "the-odin-project"
-  ],
-  "author": "top-submissions",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/top-submissions/fullstackjs-npmpackage-dropdown-menu/issues"
-  },
-  "homepage": "https://github.com/top-submissions/fullstackjs-npmpackage-dropdown-menu#readme",
   "devDependencies": {
     "@eslint/js": "^9.39.2",
     "eslint": "^9.39.2",
